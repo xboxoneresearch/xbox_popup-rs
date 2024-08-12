@@ -1,4 +1,4 @@
 /target
 /.xwin-cache
 Cargo.lock
-*.h
+**.h
